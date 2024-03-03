@@ -1,0 +1,3 @@
+[submodule "ECE484_Individual_Pinball_Piece"]
+	path = ECE484_Individual_Pinball_Piece
+	url = https://github.com/Zarci/ECE484_Individual_Pinball_Piece.git
