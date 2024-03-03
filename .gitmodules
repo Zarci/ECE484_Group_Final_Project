@@ -1,6 +1,6 @@
 [submodule "ECE484_Individual_Pinball_Piece"]
 	path = ECE484_Individual_Pinball_Piece
 	url = https://github.com/Zarci/ECE484_Individual_Pinball_Piece.git
-[submodule "ECE484-Individual-Project"]
-	path = ECE484-Individual-Project
-	url = https://github.com/ChrisLalloMiami/ECE484-Individual-Project.git
+[submodule "ECE484-Final-Individual-Project"]
+	path = ECE484-Final-Individual-Project
+	url = https://github.com/ChrisLalloMiami/ECE484-Final-Individual-Project.git
